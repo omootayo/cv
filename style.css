@@ -1,0 +1,26 @@
+body {
+    background-color: lightgray;}
+
+    h1 {
+        color:  skyblue;
+    }
+    h3 {
+        color: skyblue;
+    }
+    h4 {
+        color: skyblue;
+    }
+
+
+    hr {
+        background-color: white;
+        border-style: dotted none none;
+        border-color: grey;
+        border-width: 5px;
+        height: 0px;
+        width: 7%;
+    }
+    
+    img {
+        height: 500px;
+     }
